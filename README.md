@@ -14,3 +14,4 @@ I'm an Electrical Engineering student at UIC College of Engineering (Class of 20
 
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/azbeidi)
+- [Email](aboodzbeidi@gmail.com)
