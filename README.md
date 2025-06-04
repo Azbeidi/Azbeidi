@@ -1,7 +1,16 @@
-## Hey there 👋
+# 👋 Hi, I'm Abdalrahman Zbeidi
 
-My name is Abdalrahman, im currently a sophmore pursuing EE at UIC COE. I like to work on arduinos on my free time. Currently exploring on how to infuse both hardware and software to my projects to help with real world applications.
+I'm an Electrical Engineering student at UIC College of Engineering (Class of 2027), currently focused on embedded systems and hardware-software integration. I enjoy building real-world projects using microcontrollers like Arduino and ESP32, and I'm passionate about designing systems that connect physical hardware with intelligent control.
 
-You can reach to me through:
-Linkdln - https://www.linkedin.com/in/azbeidi
+### 🔧 What I'm Working On
+- Building embedded systems using C and assembly
+- Designing and documenting real-time sensor-driven projects
+- Learning PCB design and microcontroller interfacing
 
+### 🛠 Skills
+- C, Python, MATLAB and Assembly
+- Tiva C, Arduino and ESP32
+- Code Composer Studio (TI), KiCad, Visual Studio Code
+
+### 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/azbeidi)
